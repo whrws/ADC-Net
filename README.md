@@ -1,16 +1,3 @@
-<style>
-  div {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-  }
-
-  img {
-    margin: 10px;
-  }
-</style>
-
 # ADC-Net
 Pytorch code for the paper "Robust Unpaired Image Dehazing via Adversarial Deformation Constraint"
 
